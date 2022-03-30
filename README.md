@@ -16,8 +16,11 @@ Step 3:
 -------
 Stop docker container, take the image, login to dockerhub and push to dockerhub:
 $ docker container stop <container_id>
+
 $ docker commit dollysam/cloud-school-application <container_id>
+
 $ docker login
+
 $ docker push dollysam/cloud-school-application
 
 This is my DockerHub link: https://hub.docker.com/repository/docker/dollysam/cloud-school-application
