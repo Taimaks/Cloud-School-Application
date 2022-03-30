@@ -1,1 +1,0 @@
-# Cloud-school-application-docker
