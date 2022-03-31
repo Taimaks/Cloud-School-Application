@@ -1,4 +1,4 @@
-# SCA Cloud-school-application-1
+# SCA-Cloud-School-Application.
 INSTRUCTIONS
 ============
 
